@@ -1,0 +1,1 @@
+1. what are static and final classes in C#?

@@ -16,7 +16,8 @@
 class Program{
     static void Main(){
         UseFetchDataAsync();
-        Console.ReadKey();
+        Console.Write("Enter your name: ");
+        Console.ReadLine();
     }
     public static async void UseFetchDataAsync()
     {

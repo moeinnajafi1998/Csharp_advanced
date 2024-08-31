@@ -35,4 +35,6 @@ Performance Optimization:
   - Memory management techniques.
 
 Other Tips:
-  - many questions
+  1. what are static and final classes in C#?
+  2. array with 2 or more dimensions in C#?
+  3. Stack memory v.s. Heap memory?

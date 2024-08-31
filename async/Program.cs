@@ -18,7 +18,7 @@ class Program{
         UseFetchDataAsync();
         Console.ReadKey();
     }
-    public static async Task UseFetchDataAsync()
+    public static async void UseFetchDataAsync()
     {
         int result = await FetchDataAsync();
         Console.WriteLine($"Result: {result}");

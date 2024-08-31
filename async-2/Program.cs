@@ -6,7 +6,7 @@ class Program{
         SafeFetchDataAsync();
         Console.ReadKey();
     }
-    public static async Task SafeFetchDataAsync()
+    public static async void SafeFetchDataAsync()
     {
         try
         {
